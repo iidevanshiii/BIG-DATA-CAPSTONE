@@ -1,0 +1,21 @@
+artist,song_title,genre,year,emotion_label,Openness,Conscientiousness,Extraversion,Agreeableness,Neuroticism,personality_archetype,energy,danceability,acousticness,tempo
+Taylor Swift,Shake It Off,Pop,2015,Happy,0.839,0.429,0.838,0.703,0.31,Calm Harmonizer,0.83,0.84,0.31,139.8
+Pharrell Williams,Happy,Pop,2013,Happy,0.802,0.364,0.797,0.686,0.29,Calm Harmonizer,0.71,0.81,0.11,132.8
+Katrina and the Waves,Walking on Sunshine,Pop,1985,Happy,0.771,0.386,0.774,0.687,0.302,Calm Harmonizer,0.76,0.7,0.17,131.1
+ABBA,Dancing Queen,Pop,1976,Happy,0.739,0.396,0.743,0.673,0.318,Calm Harmonizer,0.74,0.65,0.19,133.7
+Justin Timberlake,Can't Stop the Feeling,Pop,2016,Happy,0.871,0.335,0.869,0.657,0.33,Calm Harmonizer,0.85,0.89,0.12,136.9
+Adele,Someone Like You,Pop,2011,Sad,0.298,0.705,0.302,0.312,0.645,Adventurous Explorer,0.4,0.3,0.59,93.3
+Sam Smith,Stay With Me,R&B,2014,Sad,0.302,0.641,0.314,0.318,0.639,Adventurous Explorer,0.47,0.23,0.54,76.9
+Billie Eilish,When The Party's Over,Alternative,2018,Sad,0.223,0.716,0.223,0.329,0.627,Adventurous Explorer,0.23,0.23,0.61,71.0
+Coldplay,Fix You,Rock,2005,Sad,0.35,0.778,0.344,0.409,0.626,Adventurous Explorer,0.33,0.45,0.75,79.5
+Lewis Capaldi,Someone You Loved,Pop,2018,Sad,0.266,0.75,0.257,0.319,0.656,Adventurous Explorer,0.21,0.38,0.65,78.0
+Rage Against the Machine,Killing In The Name,Rock,1992,Angry,0.465,0.421,0.48,0.165,0.856,Intense Rebel,0.74,0.44,0.21,124.2
+Linkin Park,One Step Closer,Rock,2000,Angry,0.473,0.362,0.492,0.133,0.88,Intense Rebel,0.8,0.42,0.16,138.9
+Eminem,The Way I Am,Hip-Hop,2000,Angry,0.43,0.392,0.447,0.18,0.822,Intense Rebel,0.71,0.36,0.18,137.5
+Nine Inch Nails,Head Like A Hole,Industrial,1990,Angry,0.475,0.503,0.488,0.182,0.904,Intense Rebel,0.74,0.49,0.38,126.3
+Metallica,Master of Puppets,Metal,1986,Angry,0.442,0.429,0.468,0.191,0.848,Intense Rebel,0.83,0.31,0.29,133.1
+Norah Jones,Don't Know Why,Jazz,2002,Relaxed,0.386,0.771,0.386,0.597,0.365,Creative Dreamer,0.36,0.37,0.74,81.9
+Ed Sheeran,Thinking Out Loud,Pop,2014,Relaxed,0.437,0.727,0.428,0.647,0.292,Creative Dreamer,0.27,0.45,0.57,97.4
+Bob Marley,Three Little Birds,Reggae,1977,Relaxed,0.464,0.795,0.463,0.763,0.252,Creative Dreamer,0.38,0.39,0.79,83.8
+The Beatles,Here Comes The Sun,Rock,1969,Relaxed,0.508,0.664,0.507,0.677,0.268,Creative Dreamer,0.44,0.46,0.57,77.9
+John Mayer,Gravity,Pop,2006,Relaxed,0.318,0.751,0.31,0.511,0.438,Adventurous Explorer,0.2,0.37,0.65,77.4
